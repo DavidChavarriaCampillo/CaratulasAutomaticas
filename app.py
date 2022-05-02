@@ -2,7 +2,7 @@ import shutil
 import os
 
 RTDISCO = ":/Aurora 0.5b - Release Package/Data/GameData"
-RTCARATULAS = "C:/Users/SrTonyChop/Desktop/solido/Discos duros/caratulas"
+RTCARATULAS = "C:/Users/SrTonyChop/Desktop/solido/Discos duros/Caratulas"
 
 Disco = input("Ingrese la letra donde esta montado el disco:")
 Disco = Disco.upper()
